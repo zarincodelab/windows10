@@ -8,7 +8,7 @@ on:
         required: true
       computername:
         description: 'Computer Name'
-        default: 'vbsm'
+        default: 'Zarin Solutions INC'
         required: true
       pincode:
         description: 'Six digit Pin'

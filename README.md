@@ -26,16 +26,6 @@
 ### How to run the project. 
 
 <details>
-    <summary>Ngrok (RDP)</summary>
-    
-------
-
-
-------
-
-</details>
-
-<details>
     <summary>Google Remote Desktop.</summary>
 
 ------
